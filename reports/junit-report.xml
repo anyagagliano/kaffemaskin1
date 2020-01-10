@@ -1,751 +1,2103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-    <testsuite name=";buy-americano-with-coins" tests="11" failures="0" skipped="11">
+    <testsuite name=";buy-americano-without-sugar-with-coins" tests="11" failures="0" skipped="11">
         <properties>
             <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/americano.feature">
             </property>
         </properties>
-        <testcase name="Given that the machine is plugged in" classname=";buy-americano-with-coins">
+        <testcase name="Given that the machine is plugged in" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that water is available" classname=";buy-americano-with-coins">
+        <testcase name="And that water is available" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that the machine has enough ground coffee" classname=";buy-americano-with-coins">
+        <testcase name="And that the machine has enough  coffee for a cup" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the machine has plastic cups" classname=";buy-americano-with-coins">
+        <testcase name="And the machine has plastic cups" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user presses the &quot;Americano&quot; button" classname=";buy-americano-with-coins">
+        <testcase name="When the user presses the &quot;Americano&quot; button" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user inserts a 10 kr coin" classname=";buy-americano-with-coins">
+        <testcase name="And the user inserts a 10 kr coin" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 10 kr coin" classname=";buy-americano-with-coins">
+        <testcase name="And the user inserts a 10 kr coin" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And presses the &quot;start&quot; button" classname=";buy-americano-with-coins">
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="Then the user recieves 1 cup of americano." classname=";buy-americano-with-coins">
+        <testcase name="Then the user recieves 1 cup of Americano." classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
     </testsuite>
-    <testsuite name=";buy-americano-with-coins" tests="11" failures="0" skipped="11">
+    <testsuite name=";buy-americano-without-sugar-with-coins" tests="11" failures="0" skipped="11">
         <properties>
             <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/americano.feature">
             </property>
         </properties>
-        <testcase name="Given that the machine is plugged in" classname=";buy-americano-with-coins">
+        <testcase name="Given that the machine is plugged in" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that water is available" classname=";buy-americano-with-coins">
+        <testcase name="And that water is available" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that the machine has enough ground coffee" classname=";buy-americano-with-coins">
+        <testcase name="And that the machine has enough  coffee for a cup" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the machine has plastic cups" classname=";buy-americano-with-coins">
+        <testcase name="And the machine has plastic cups" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user presses the &quot;Americano&quot; button" classname=";buy-americano-with-coins">
+        <testcase name="When the user presses the &quot;Americano&quot; button" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user inserts a 5 kr coin" classname=";buy-americano-with-coins">
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 5 kr coin" classname=";buy-americano-with-coins">
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 5 kr coin" classname=";buy-americano-with-coins">
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 5 kr coin" classname=";buy-americano-with-coins">
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And presses the &quot;start&quot; button" classname=";buy-americano-with-coins">
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="Then the user recieves 1 cup of americano." classname=";buy-americano-with-coins">
+        <testcase name="Then the user recieves 1 cup of Americano." classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
     </testsuite>
-    <testsuite name=";buy-americano-with-coins" tests="11" failures="0" skipped="11">
+    <testsuite name=";buy-americano-without-sugar-with-coins" tests="11" failures="0" skipped="11">
         <properties>
             <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/americano.feature">
             </property>
         </properties>
-        <testcase name="Given that the machine is plugged in" classname=";buy-americano-with-coins">
+        <testcase name="Given that the machine is plugged in" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that water is available" classname=";buy-americano-with-coins">
+        <testcase name="And that water is available" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that the machine has enough ground coffee" classname=";buy-americano-with-coins">
+        <testcase name="And that the machine has enough  coffee for a cup" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the machine has plastic cups" classname=";buy-americano-with-coins">
+        <testcase name="And the machine has plastic cups" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user presses the &quot;Americano&quot; button" classname=";buy-americano-with-coins">
+        <testcase name="When the user presses the &quot;Americano&quot; button" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user inserts a 10 kr coin" classname=";buy-americano-with-coins">
+        <testcase name="And the user inserts a 10 kr coin" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And presses the &quot;start&quot; button" classname=";buy-americano-with-coins">
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="Then the user recieves 0 cup of americano." classname=";buy-americano-with-coins">
+        <testcase name="Then the user recieves 0 cup of Americano." classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
     </testsuite>
-    <testsuite name=";buy-americano-with-coins" tests="11" failures="0" skipped="11">
+    <testsuite name=";buy-americano-without-sugar-with-coins" tests="11" failures="0" skipped="11">
         <properties>
             <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/americano.feature">
             </property>
         </properties>
-        <testcase name="Given that the machine is plugged in" classname=";buy-americano-with-coins">
+        <testcase name="Given that the machine is plugged in" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that water is available" classname=";buy-americano-with-coins">
+        <testcase name="And that water is available" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that the machine has enough ground coffee" classname=";buy-americano-with-coins">
+        <testcase name="And that the machine has enough  coffee for a cup" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the machine has plastic cups" classname=";buy-americano-with-coins">
+        <testcase name="And the machine has plastic cups" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user presses the &quot;Americano&quot; button" classname=";buy-americano-with-coins">
+        <testcase name="When the user presses the &quot;Americano&quot; button" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user inserts a &quot;byxknapp&quot; kr coin" classname=";buy-americano-with-coins">
+        <testcase name="And the user inserts a &quot;byxknapp&quot; kr coin" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 1 kr coin" classname=";buy-americano-with-coins">
+        <testcase name="And the user inserts a 1 kr coin" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And presses the &quot;start&quot; button" classname=";buy-americano-with-coins">
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="Then the user recieves 0 cup of americano." classname=";buy-americano-with-coins">
+        <testcase name="Then the user recieves 0 cup of Americano." classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
     </testsuite>
-    <testsuite name=";buy-americano-with-coins" tests="11" failures="0" skipped="11">
+    <testsuite name=";buy-americano-without-sugar-with-coins" tests="11" failures="0" skipped="11">
         <properties>
             <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/americano.feature">
             </property>
         </properties>
-        <testcase name="Given that the machine is plugged in" classname=";buy-americano-with-coins">
+        <testcase name="Given that the machine is plugged in" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that water is available" classname=";buy-americano-with-coins">
+        <testcase name="And that water is available" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that the machine has enough ground coffee" classname=";buy-americano-with-coins">
+        <testcase name="And that the machine has enough  coffee for a cup" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the machine has plastic cups" classname=";buy-americano-with-coins">
+        <testcase name="And the machine has plastic cups" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user presses the &quot;Americano&quot; button" classname=";buy-americano-with-coins">
+        <testcase name="When the user presses the &quot;Americano&quot; button" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user inserts a 5 kr coin" classname=";buy-americano-with-coins">
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And presses the &quot;start&quot; button" classname=";buy-americano-with-coins">
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="Then the user recieves 0 cup of americano." classname=";buy-americano-with-coins">
+        <testcase name="Then the user recieves 0 cup of Americano." classname=";buy-americano-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
     </testsuite>
-    <testsuite name=";buy-caffe-latte-with-coins" tests="11" failures="0" skipped="11">
+    <testsuite name=";buy-americano-without-sugar-and-pay-with-bank-card" tests="9" failures="0" skipped="9">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/americano.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-americano-without-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-americano-without-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough  coffee for a cup" classname=";buy-americano-without-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-americano-without-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;Americano&quot; button" classname=";buy-americano-without-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user taps the bank card near the terminal" classname=";buy-americano-without-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the payment is accepted" classname=";buy-americano-without-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user presses the &quot;Start&quot; button" classname=";buy-americano-without-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user receives a cup of Americano" classname=";buy-americano-without-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-americano-with-sugar-and-pay-with-coins" tests="13" failures="0" skipped="13">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/americano.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough  coffee for a cup" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Given the machine has enough sugar for a cup" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;Americano&quot; button" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user presses the &quot;Sugar&quot; button" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 10 kr coin" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 10 kr coin" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 1 cup of Americano with sugar." classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-americano-with-sugar-and-pay-with-coins" tests="13" failures="0" skipped="13">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/americano.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough  coffee for a cup" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Given the machine has enough sugar for a cup" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;Americano&quot; button" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user presses the &quot;Sugar&quot; button" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 1 cup of Americano with sugar." classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-americano-with-sugar-and-pay-with-coins" tests="13" failures="0" skipped="13">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/americano.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough  coffee for a cup" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Given the machine has enough sugar for a cup" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;Americano&quot; button" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user presses the &quot;Sugar&quot; button" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 10 kr coin" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 0 cup of Americano with sugar." classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-americano-with-sugar-and-pay-with-coins" tests="13" failures="0" skipped="13">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/americano.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough  coffee for a cup" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Given the machine has enough sugar for a cup" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;Americano&quot; button" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user presses the &quot;Sugar&quot; button" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a &quot;byxknapp&quot; kr coin" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 1 kr coin" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 0 cup of Americano with sugar." classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-americano-with-sugar-and-pay-with-coins" tests="13" failures="0" skipped="13">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/americano.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough  coffee for a cup" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Given the machine has enough sugar for a cup" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;Americano&quot; button" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user presses the &quot;Sugar&quot; button" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 0 cup of Americano with sugar." classname=";buy-americano-with-sugar-and-pay-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-americano-with-sugar-and-pay-with-bank-card" tests="11" failures="0" skipped="11">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/americano.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-americano-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-americano-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough  coffee for a cup" classname=";buy-americano-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-americano-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Given teh machine has enough sugar for a cup" classname=";buy-americano-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;Americano&quot; button" classname=";buy-americano-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user presses the &quot;Sugar&quot; button" classname=";buy-americano-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user taps the bank card near the terminal" classname=";buy-americano-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the payment is accepted" classname=";buy-americano-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user presses the &quot;Start&quot; button" classname=";buy-americano-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user receives a cup of Americano with sugar." classname=";buy-americano-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-caffe-latte-without-sugar-with-coins" tests="12" failures="0" skipped="12">
         <properties>
             <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/caffelatte.feature">
             </property>
         </properties>
-        <testcase name="Given that the machine is plugged in" classname=";buy-caffe-latte-with-coins">
+        <testcase name="Given that the machine is plugged in" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that water is available" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And that water is available" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that the machine has enough ground coffee" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the machine has plastic cups" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And that the machine has enough milk powder for a cup of Caffe Latte" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user presses the &quot;Caffelatte&quot; button" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the machine has plastic cups" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user inserts a 10 kr coin" classname=";buy-caffe-latte-with-coins">
+        <testcase name="When the user presses the &quot;CaffeLatte&quot; button" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 10 kr coin" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the user inserts a 10 kr coin" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the user inserts a 10 kr coin" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And presses the &quot;start&quot; button" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="Then the user recieves 1 cup of Caffe Latte." classname=";buy-caffe-latte-with-coins">
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-caffe-latte-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 1 cup of Caffe Latte." classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
     </testsuite>
-    <testsuite name=";buy-caffe-latte-with-coins" tests="11" failures="0" skipped="11">
+    <testsuite name=";buy-caffe-latte-without-sugar-with-coins" tests="12" failures="0" skipped="12">
         <properties>
             <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/caffelatte.feature">
             </property>
         </properties>
-        <testcase name="Given that the machine is plugged in" classname=";buy-caffe-latte-with-coins">
+        <testcase name="Given that the machine is plugged in" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that water is available" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And that water is available" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that the machine has enough ground coffee" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the machine has plastic cups" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And that the machine has enough milk powder for a cup of Caffe Latte" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user presses the &quot;Caffelatte&quot; button" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the machine has plastic cups" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user inserts a 5 kr coin" classname=";buy-caffe-latte-with-coins">
+        <testcase name="When the user presses the &quot;CaffeLatte&quot; button" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 5 kr coin" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 5 kr coin" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 5 kr coin" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And presses the &quot;start&quot; button" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="Then the user recieves 1 cup of Caffe Latte." classname=";buy-caffe-latte-with-coins">
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-caffe-latte-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 1 cup of Caffe Latte." classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
     </testsuite>
-    <testsuite name=";buy-caffe-latte-with-coins" tests="11" failures="0" skipped="11">
+    <testsuite name=";buy-caffe-latte-without-sugar-with-coins" tests="12" failures="0" skipped="12">
         <properties>
             <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/caffelatte.feature">
             </property>
         </properties>
-        <testcase name="Given that the machine is plugged in" classname=";buy-caffe-latte-with-coins">
+        <testcase name="Given that the machine is plugged in" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that water is available" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And that water is available" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that the machine has enough ground coffee" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the machine has plastic cups" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And that the machine has enough milk powder for a cup of Caffe Latte" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user presses the &quot;Caffelatte&quot; button" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the machine has plastic cups" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user inserts a 10 kr coin" classname=";buy-caffe-latte-with-coins">
+        <testcase name="When the user presses the &quot;CaffeLatte&quot; button" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the user inserts a 10 kr coin" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And presses the &quot;start&quot; button" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="Then the user recieves 0 cup of Caffe Latte." classname=";buy-caffe-latte-with-coins">
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-caffe-latte-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 0 cup of Caffe Latte." classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
     </testsuite>
-    <testsuite name=";buy-caffe-latte-with-coins" tests="11" failures="0" skipped="11">
+    <testsuite name=";buy-caffe-latte-without-sugar-with-coins" tests="12" failures="0" skipped="12">
         <properties>
             <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/caffelatte.feature">
             </property>
         </properties>
-        <testcase name="Given that the machine is plugged in" classname=";buy-caffe-latte-with-coins">
+        <testcase name="Given that the machine is plugged in" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that water is available" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And that water is available" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that the machine has enough ground coffee" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the machine has plastic cups" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And that the machine has enough milk powder for a cup of Caffe Latte" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user presses the &quot;Caffelatte&quot; button" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the machine has plastic cups" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user inserts a &quot;byxknapp&quot; kr coin" classname=";buy-caffe-latte-with-coins">
+        <testcase name="When the user presses the &quot;CaffeLatte&quot; button" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 1 kr coin" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the user inserts a &quot;byxknapp&quot; kr coin" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the user inserts a 1 kr coin" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And presses the &quot;start&quot; button" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="Then the user recieves 0 cup of Caffe Latte." classname=";buy-caffe-latte-with-coins">
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-caffe-latte-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 0 cup of Caffe Latte." classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
     </testsuite>
-    <testsuite name=";buy-caffe-latte-with-coins" tests="11" failures="0" skipped="11">
+    <testsuite name=";buy-caffe-latte-without-sugar-with-coins" tests="12" failures="0" skipped="12">
         <properties>
             <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/caffelatte.feature">
             </property>
         </properties>
-        <testcase name="Given that the machine is plugged in" classname=";buy-caffe-latte-with-coins">
+        <testcase name="Given that the machine is plugged in" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that water is available" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And that water is available" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that the machine has enough ground coffee" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the machine has plastic cups" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And that the machine has enough milk powder for a cup of Caffe Latte" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user presses the &quot;Caffelatte&quot; button" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the machine has plastic cups" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user inserts a 5 kr coin" classname=";buy-caffe-latte-with-coins">
+        <testcase name="When the user presses the &quot;CaffeLatte&quot; button" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And presses the &quot;start&quot; button" classname=";buy-caffe-latte-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="Then the user recieves 0 cup of Caffe Latte." classname=";buy-caffe-latte-with-coins">
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-    </testsuite>
-    <testsuite name=";buy-cappuccino-with-coins" tests="11" failures="0" skipped="11">
-        <properties>
-            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/cappuccino.feature">
-            </property>
-        </properties>
-        <testcase name="Given that the machine is plugged in" classname=";buy-cappuccino-with-coins">
-            <skipped message="">
-            </skipped>
-        </testcase>
-        <testcase name="And that water is available" classname=";buy-cappuccino-with-coins">
-            <skipped message="">
-            </skipped>
-        </testcase>
-        <testcase name="And that the machine has enough ground coffee" classname=";buy-cappuccino-with-coins">
-            <skipped message="">
-            </skipped>
-        </testcase>
-        <testcase name="And the machine has plastic cups" classname=";buy-cappuccino-with-coins">
-            <skipped message="">
-            </skipped>
-        </testcase>
-        <testcase name="When the user presses the &quot;Cappuccino&quot; button" classname=";buy-cappuccino-with-coins">
-            <skipped message="">
-            </skipped>
-        </testcase>
-        <testcase name="When the user inserts a 10 kr coin" classname=";buy-cappuccino-with-coins">
-            <skipped message="">
-            </skipped>
-        </testcase>
-        <testcase name="And the user inserts a 10 kr coin" classname=";buy-cappuccino-with-coins">
-            <skipped message="">
-            </skipped>
-        </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-with-coins">
-            <skipped message="">
-            </skipped>
-        </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-with-coins">
-            <skipped message="">
-            </skipped>
-        </testcase>
-        <testcase name="And presses the &quot;start&quot; button" classname=";buy-cappuccino-with-coins">
-            <skipped message="">
-            </skipped>
-        </testcase>
-        <testcase name="Then the user recieves 1 cup of cappuccino." classname=";buy-cappuccino-with-coins">
+        <testcase name="Then the user recieves 0 cup of Caffe Latte." classname=";buy-caffe-latte-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
     </testsuite>
-    <testsuite name=";buy-cappuccino-with-coins" tests="11" failures="0" skipped="11">
+    <testsuite name=";buy-caffe-latte-without-sugar-and-pay-with-bank-card" tests="10" failures="0" skipped="10">
         <properties>
-            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/cappuccino.feature">
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/caffelatte.feature">
             </property>
         </properties>
-        <testcase name="Given that the machine is plugged in" classname=";buy-cappuccino-with-coins">
+        <testcase name="Given that the machine is plugged in" classname=";buy-caffe-latte-without-sugar-and-pay-with-bank-card">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that water is available" classname=";buy-cappuccino-with-coins">
+        <testcase name="And that water is available" classname=";buy-caffe-latte-without-sugar-and-pay-with-bank-card">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that the machine has enough ground coffee" classname=";buy-cappuccino-with-coins">
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-caffe-latte-without-sugar-and-pay-with-bank-card">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the machine has plastic cups" classname=";buy-cappuccino-with-coins">
+        <testcase name="And that the machine has enough milk powder for a cup of Caffe Latte" classname=";buy-caffe-latte-without-sugar-and-pay-with-bank-card">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user presses the &quot;Cappuccino&quot; button" classname=";buy-cappuccino-with-coins">
+        <testcase name="And the machine has plastic cups" classname=";buy-caffe-latte-without-sugar-and-pay-with-bank-card">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user inserts a 5 kr coin" classname=";buy-cappuccino-with-coins">
+        <testcase name="When the user presses the &quot;CaffeLatte&quot; button" classname=";buy-caffe-latte-without-sugar-and-pay-with-bank-card">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 5 kr coin" classname=";buy-cappuccino-with-coins">
+        <testcase name="And the user taps the bank card near the terminal" classname=";buy-caffe-latte-without-sugar-and-pay-with-bank-card">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 5 kr coin" classname=";buy-cappuccino-with-coins">
+        <testcase name="And the payment is accepted" classname=";buy-caffe-latte-without-sugar-and-pay-with-bank-card">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 5 kr coin" classname=";buy-cappuccino-with-coins">
+        <testcase name="And the user presses the &quot;Start&quot; button" classname=";buy-caffe-latte-without-sugar-and-pay-with-bank-card">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And presses the &quot;start&quot; button" classname=";buy-cappuccino-with-coins">
-            <skipped message="">
-            </skipped>
-        </testcase>
-        <testcase name="Then the user recieves 1 cup of cappuccino." classname=";buy-cappuccino-with-coins">
+        <testcase name="Then the user receives a cup of Caffe Latte" classname=";buy-caffe-latte-without-sugar-and-pay-with-bank-card">
             <skipped message="">
             </skipped>
         </testcase>
     </testsuite>
-    <testsuite name=";buy-cappuccino-with-coins" tests="11" failures="0" skipped="11">
+    <testsuite name=";buy-caffe-latte-with-sugar-with-coins" tests="14" failures="0" skipped="14">
         <properties>
-            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/cappuccino.feature">
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/caffelatte.feature">
             </property>
         </properties>
-        <testcase name="Given that the machine is plugged in" classname=";buy-cappuccino-with-coins">
+        <testcase name="Given that the machine is plugged in" classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that water is available" classname=";buy-cappuccino-with-coins">
+        <testcase name="And that water is available" classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that the machine has enough ground coffee" classname=";buy-cappuccino-with-coins">
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the machine has plastic cups" classname=";buy-cappuccino-with-coins">
+        <testcase name="And that the machine has enough milk powder for a cup of Caffe Latte" classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user presses the &quot;Cappuccino&quot; button" classname=";buy-cappuccino-with-coins">
+        <testcase name="And the machine has plastic cups" classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user inserts a 10 kr coin" classname=";buy-cappuccino-with-coins">
+        <testcase name="Given the machine has enough sugar for a cup" classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-with-coins">
+        <testcase name="When the user presses the &quot;CaffeLatte&quot; button" classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-with-coins">
+        <testcase name="And the user presses the &quot;Sugar&quot; button" classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-with-coins">
+        <testcase name="And the user inserts a 10 kr coin" classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And presses the &quot;start&quot; button" classname=";buy-cappuccino-with-coins">
+        <testcase name="And the user inserts a 10 kr coin" classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="Then the user recieves 0 cup of cappuccino." classname=";buy-cappuccino-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 1 cup of Caffe Latte with sugar." classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
     </testsuite>
-    <testsuite name=";buy-cappuccino-with-coins" tests="11" failures="0" skipped="11">
+    <testsuite name=";buy-caffe-latte-with-sugar-with-coins" tests="14" failures="0" skipped="14">
         <properties>
-            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/cappuccino.feature">
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/caffelatte.feature">
             </property>
         </properties>
-        <testcase name="Given that the machine is plugged in" classname=";buy-cappuccino-with-coins">
+        <testcase name="Given that the machine is plugged in" classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that water is available" classname=";buy-cappuccino-with-coins">
+        <testcase name="And that water is available" classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that the machine has enough ground coffee" classname=";buy-cappuccino-with-coins">
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the machine has plastic cups" classname=";buy-cappuccino-with-coins">
+        <testcase name="And that the machine has enough milk powder for a cup of Caffe Latte" classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user presses the &quot;Cappuccino&quot; button" classname=";buy-cappuccino-with-coins">
+        <testcase name="And the machine has plastic cups" classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user inserts a &quot;byxknapp&quot; kr coin" classname=";buy-cappuccino-with-coins">
+        <testcase name="Given the machine has enough sugar for a cup" classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 1 kr coin" classname=";buy-cappuccino-with-coins">
+        <testcase name="When the user presses the &quot;CaffeLatte&quot; button" classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-with-coins">
+        <testcase name="And the user presses the &quot;Sugar&quot; button" classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-with-coins">
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And presses the &quot;start&quot; button" classname=";buy-cappuccino-with-coins">
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="Then the user recieves 0 cup of cappuccino." classname=";buy-cappuccino-with-coins">
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 1 cup of Caffe Latte with sugar." classname=";buy-caffe-latte-with-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
     </testsuite>
-    <testsuite name=";buy-cappuccino-with-coins" tests="11" failures="0" skipped="11">
+    <testsuite name=";buy-caffe-latte-with-sugar-with-coins" tests="14" failures="0" skipped="14">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/caffelatte.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough milk powder for a cup of Caffe Latte" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Given the machine has enough sugar for a cup" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;CaffeLatte&quot; button" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user presses the &quot;Sugar&quot; button" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 10 kr coin" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 0 cup of Caffe Latte with sugar." classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-caffe-latte-with-sugar-with-coins" tests="14" failures="0" skipped="14">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/caffelatte.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough milk powder for a cup of Caffe Latte" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Given the machine has enough sugar for a cup" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;CaffeLatte&quot; button" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user presses the &quot;Sugar&quot; button" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a &quot;byxknapp&quot; kr coin" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 1 kr coin" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 0 cup of Caffe Latte with sugar." classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-caffe-latte-with-sugar-with-coins" tests="14" failures="0" skipped="14">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/caffelatte.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough milk powder for a cup of Caffe Latte" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Given the machine has enough sugar for a cup" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;CaffeLatte&quot; button" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user presses the &quot;Sugar&quot; button" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 0 cup of Caffe Latte with sugar." classname=";buy-caffe-latte-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-caffe-latte-with-sugar-and-pay-with-bank-card" tests="12" failures="0" skipped="12">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/caffelatte.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-caffe-latte-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-caffe-latte-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-caffe-latte-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough milk powder for a cup of Caffe Latte" classname=";buy-caffe-latte-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-caffe-latte-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Given the machine has enough sugar for a cup" classname=";buy-caffe-latte-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;CaffeLatte&quot; button" classname=";buy-caffe-latte-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user presses the &quot;Sugar&quot; button" classname=";buy-caffe-latte-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user taps the bank card near the terminal" classname=";buy-caffe-latte-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the payment is accepted" classname=";buy-caffe-latte-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user presses the &quot;Start&quot; button" classname=";buy-caffe-latte-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user receives a cup of Caffe Latte with sugar." classname=";buy-caffe-latte-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-cappuccino-without-sugar-with-coins" tests="12" failures="0" skipped="12">
         <properties>
             <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/cappuccino.feature">
             </property>
         </properties>
-        <testcase name="Given that the machine is plugged in" classname=";buy-cappuccino-with-coins">
+        <testcase name="Given that the machine is plugged in" classname=";buy-cappuccino-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that water is available" classname=";buy-cappuccino-with-coins">
+        <testcase name="And that water is available" classname=";buy-cappuccino-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And that the machine has enough ground coffee" classname=";buy-cappuccino-with-coins">
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-cappuccino-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the machine has plastic cups" classname=";buy-cappuccino-with-coins">
+        <testcase name="And that the machine has enough milk powder for a cup of Cappuccino" classname=";buy-cappuccino-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user presses the &quot;Cappuccino&quot; button" classname=";buy-cappuccino-with-coins">
+        <testcase name="And the machine has plastic cups" classname=";buy-cappuccino-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="When the user inserts a 5 kr coin" classname=";buy-cappuccino-with-coins">
+        <testcase name="When the user presses the &quot;Cappuccino&quot; button" classname=";buy-cappuccino-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-with-coins">
+        <testcase name="And the user inserts a 10 kr coin" classname=";buy-cappuccino-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-with-coins">
+        <testcase name="And the user inserts a 10 kr coin" classname=";buy-cappuccino-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="And presses the &quot;start&quot; button" classname=";buy-cappuccino-with-coins">
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-without-sugar-with-coins">
             <skipped message="">
             </skipped>
         </testcase>
-        <testcase name="Then the user recieves 0 cup of cappuccino." classname=";buy-cappuccino-with-coins">
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 1 cup of Cappuccino." classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-cappuccino-without-sugar-with-coins" tests="12" failures="0" skipped="12">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/cappuccino.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough milk powder for a cup of Cappuccino" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;Cappuccino&quot; button" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 1 cup of Cappuccino." classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-cappuccino-without-sugar-with-coins" tests="12" failures="0" skipped="12">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/cappuccino.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough milk powder for a cup of Cappuccino" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;Cappuccino&quot; button" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 10 kr coin" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 0 cup of Cappuccino." classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-cappuccino-without-sugar-with-coins" tests="12" failures="0" skipped="12">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/cappuccino.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough milk powder for a cup of Cappuccino" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;Cappuccino&quot; button" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a &quot;byxknapp&quot; kr coin" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 1 kr coin" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 0 cup of Cappuccino." classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-cappuccino-without-sugar-with-coins" tests="12" failures="0" skipped="12">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/cappuccino.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough milk powder for a cup of Cappuccino" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;Cappuccino&quot; button" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 0 cup of Cappuccino." classname=";buy-cappuccino-without-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-cappuccino-without-sugar-and-pay-with-bank-card" tests="10" failures="0" skipped="10">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/cappuccino.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-cappuccino-without-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-cappuccino-without-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-cappuccino-without-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough milk powder for a cup of Cappuccino" classname=";buy-cappuccino-without-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-cappuccino-without-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;Cappuccino&quot; button" classname=";buy-cappuccino-without-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user taps the bank card near the terminal" classname=";buy-cappuccino-without-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the payment is accepted" classname=";buy-cappuccino-without-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user presses the &quot;Start&quot; button" classname=";buy-cappuccino-without-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user receives a cup of Cappuccino" classname=";buy-cappuccino-without-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-cappuccino-with-sugar-with-coins" tests="14" failures="0" skipped="14">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/cappuccino.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough milk powder for a cup of Cappuccino" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Given the machine has enough sugar for a cup" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;Cappuccino&quot; button" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user presses the &quot;Sugar&quot; button" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 10 kr coin" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 10 kr coin" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 1 cup of Cappuccino with sugar." classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-cappuccino-with-sugar-with-coins" tests="14" failures="0" skipped="14">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/cappuccino.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough milk powder for a cup of Cappuccino" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Given the machine has enough sugar for a cup" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;Cappuccino&quot; button" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user presses the &quot;Sugar&quot; button" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 1 cup of Cappuccino with sugar." classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-cappuccino-with-sugar-with-coins" tests="14" failures="0" skipped="14">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/cappuccino.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough milk powder for a cup of Cappuccino" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Given the machine has enough sugar for a cup" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;Cappuccino&quot; button" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user presses the &quot;Sugar&quot; button" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 10 kr coin" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 0 cup of Cappuccino with sugar." classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-cappuccino-with-sugar-with-coins" tests="14" failures="0" skipped="14">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/cappuccino.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough milk powder for a cup of Cappuccino" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Given the machine has enough sugar for a cup" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;Cappuccino&quot; button" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user presses the &quot;Sugar&quot; button" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a &quot;byxknapp&quot; kr coin" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 1 kr coin" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 0 cup of Cappuccino with sugar." classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-cappuccino-with-sugar-with-coins" tests="14" failures="0" skipped="14">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/cappuccino.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough milk powder for a cup of Cappuccino" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Given the machine has enough sugar for a cup" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;Cappuccino&quot; button" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user presses the &quot;Sugar&quot; button" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 5 kr coin" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user inserts a 0 kr coin" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And presses the &quot;start&quot; button" classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user recieves 0 cup of Cappuccino with sugar." classname=";buy-cappuccino-with-sugar-with-coins">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";buy-cappuccino-with-sugar-and-pay-with-bank-card" tests="12" failures="0" skipped="12">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/cappuccino.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";buy-cappuccino-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";buy-cappuccino-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough coffee for a cup" classname=";buy-cappuccino-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has enough milk powder for a cup of Cappuccino" classname=";buy-cappuccino-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";buy-cappuccino-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Given the machine has enough sugar for a cup" classname=";buy-cappuccino-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;Cappuccino&quot; button" classname=";buy-cappuccino-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user presses the &quot;Sugar&quot; button" classname=";buy-cappuccino-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user taps the bank card near the terminal" classname=";buy-cappuccino-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the payment is accepted" classname=";buy-cappuccino-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the user presses the &quot;Start&quot; button" classname=";buy-cappuccino-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user receives a cup of Cappuccino with sugar." classname=";buy-cappuccino-with-sugar-and-pay-with-bank-card">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";missing-coffee-for-americano" tests="7" failures="0" skipped="7">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/missingcaffeforcup.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";missing-coffee-for-americano">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";missing-coffee-for-americano">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";missing-coffee-for-americano">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has not enough coffee for a cup" classname=";missing-coffee-for-americano">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;Americano&quot; button" classname=";missing-coffee-for-americano">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user does not receive a cup of Americano" classname=";missing-coffee-for-americano">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the display shows &quot;There is not enough coffee&quot;" classname=";missing-coffee-for-americano">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";missing-coffe-for-cappuccino" tests="8" failures="0" skipped="8">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/missingcaffeforcup.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";missing-coffe-for-cappuccino">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";missing-coffe-for-cappuccino">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";missing-coffe-for-cappuccino">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has not enough coffee for a cup" classname=";missing-coffe-for-cappuccino">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Given that the machine has enough milk powder for a cup of Cappuccino" classname=";missing-coffe-for-cappuccino">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;Cappuccino&quot; button" classname=";missing-coffe-for-cappuccino">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user does not receive a cup of Cappuccino" classname=";missing-coffe-for-cappuccino">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the display shows &quot;There is not enough coffee&quot;" classname=";missing-coffe-for-cappuccino">
+            <skipped message="">
+            </skipped>
+        </testcase>
+    </testsuite>
+    <testsuite name=";missing-coffe-for-caffe-latte" tests="8" failures="0" skipped="8">
+        <properties>
+            <property name="URI" value="C:/dev/kaffemaskin1/kaffemaskin1/features/missingcaffeforcup.feature">
+            </property>
+        </properties>
+        <testcase name="Given that the machine is plugged in" classname=";missing-coffe-for-caffe-latte">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that water is available" classname=";missing-coffe-for-caffe-latte">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And the machine has plastic cups" classname=";missing-coffe-for-caffe-latte">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="And that the machine has not enough coffee for a cup" classname=";missing-coffe-for-caffe-latte">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Given that the machine has enough milk powder for a cup of Caffe Latte" classname=";missing-coffe-for-caffe-latte">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="When the user presses the &quot;CaffeLatte&quot; button" classname=";missing-coffe-for-caffe-latte">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the user does not receive a cup of Caffe Latte" classname=";missing-coffe-for-caffe-latte">
+            <skipped message="">
+            </skipped>
+        </testcase>
+        <testcase name="Then the display shows &quot;There is not enough coffee&quot;" classname=";missing-coffe-for-caffe-latte">
             <skipped message="">
             </skipped>
         </testcase>
