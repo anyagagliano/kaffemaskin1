@@ -6,3 +6,7 @@ or pay with bank card
 and get a cup of cappuccino back
 with sugar or without sugar
 because I like cappuccino and crave caffeine.
+
+  Background: Coffe machine basic
+    Given that the machine is plugged in
+    And that water is available

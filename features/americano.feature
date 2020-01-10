@@ -7,11 +7,13 @@ Feature:
   with sugar or without sugar
   because I like americano and crave caffeine.
 
+  Background: Coffe machine basic
+    Given that the machine is plugged in
+    And that water is available
+
   
 
   Scenario Outline:
-    Given that the machine is plugged in
-    And that water is available
     And that the machine has enough ground coffee
     And the machine has plastic cups
     When the user inserts a <money1> kr coin
