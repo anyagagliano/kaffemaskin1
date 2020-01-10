@@ -13,17 +13,21 @@ Feature:
 
   
 
-  Scenario Outline:
+  Scenario Outline: buy Americano with coins
     And that the machine has enough ground coffee
     And the machine has plastic cups
+    When the user presses the "Americano" button
     When the user inserts a <money1> kr coin
     And the user inserts a <money2> kr coin
+    And the user inserts a <money3> kr coin
+    And the user inserts a <money4> kr coin
     And presses the "start" button
-    Then the user recieves <cup> cup of coffee.
+    Then the user recieves <cup> cup of americano.
 
     Examples:
-      | money1 | money2 | cup |
-      | 10     | 0      | 1   |
-      | 5      | 5      | 1   |
-      | 1      | 1      | 0   |
-      | "byxknapp" | 1  | 0   |
+      | money1 | money2 | money3|money4| cup |
+      | 10     | 10     |   0   |  0   | 1   |
+      | 5      | 5      |   5   |  5   | 1   |
+      | 10     | 0      |   0   |  0   | 0   |
+      | "byxknapp" | 1  |   0   |  0   | 0   |
+      | 5      | 0      |   0   |  0   | 0   |

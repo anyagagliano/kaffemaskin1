@@ -14,9 +14,8 @@ class CoffeeMachine {
     this.amountOfMilkPowder = 0;
     this.amountOfSugar = 0;
     // some settings
-    this.pricePerAmericano = 20; // in SEK
-    this.pricePerCappuccino = 20; // in SEK
-    this.pricePerCaffeLatte = 20;//in SEK
+    this.pricePerCup = 20; // in SEK
+    
     this.coffeePerCup = 13; // in grams
     this.milkPerCappuccino = 10; // in grams
     this.milkPerCaffeLatte = 15; // in grams
@@ -47,6 +46,8 @@ class CoffeeMachine {
   }
 
   fillWithMilkPowder(amount) {
+
+    
     
 
   }

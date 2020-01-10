@@ -12,9 +12,15 @@ let resultOfStartButton;
 // Export the step-definitions
 // (tests) so that Cucumber can
 // read/use them
-module.exports = function () {
+module.exports = function () { 
 
-  this.Given(/^that the machine is plugged in$/, function () {
+
+  
+}
+
+
+
+ /* this.Given(/^that the machine is plugged in$/, function () {
 
     // Make a brand new coffee machine
     myMachine = new CoffeeMachine();
@@ -162,3 +168,5 @@ module.exports = function () {
   });
 
 }
+*/
+
