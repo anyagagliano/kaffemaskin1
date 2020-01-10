@@ -16,6 +16,8 @@ class CoffeeMachine {
     // some settings
     this.pricePerCup = 20; // in SEK
     
+    this.waterForCaffee = 177; // in ml
+    this.waterForCaffeLatte = 200// in ml
     this.coffeePerCup = 13; // in grams
     this.milkPerCappuccino = 10; // in grams
     this.milkPerCaffeLatte = 15; // in grams
@@ -62,8 +64,7 @@ class CoffeeMachine {
   // user choices
 
   insertMoney(inserted) {
-    // add inserted money to total
-    // money inserted so far
+   
     if (typeof inserted !== 'number') {
       throw (new Error('You must insert money not ' + nonMoney));
     }
@@ -95,14 +96,7 @@ class CoffeeMachine {
 
 
   pressStartButton() {
-    // here we will need to call
-    // a number of internal methods
-    // (se below)
-    // in the correcto order
-    // and abort if not enough coffee etc
-
-    // FOR NOW JUST RETURN "here's your coffee"
-    // if there is enough money inserted
+    
     if (this.insertedMoney >= this.pricePerCup) {
       return "here's your coffee";
     }

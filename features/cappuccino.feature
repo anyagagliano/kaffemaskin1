@@ -15,7 +15,6 @@ because I like Cappuccino and crave caffeine.
     And the machine has plastic cups
 
   Scenario Outline: buy Cappuccino without sugar with coins
-   
     When the user presses the "Cappuccino" button
     And the user inserts a <money1> kr coin
     And the user inserts a <money2> kr coin
@@ -33,7 +32,6 @@ because I like Cappuccino and crave caffeine.
       | 5          | 0      | 0      | 0      | 0   |
 
   Scenario: buy Cappuccino without sugar and pay with bank card
-   
     When the user presses the "Cappuccino" button
     And the user taps the bank card near the terminal
     And the payment is accepted
@@ -41,7 +39,6 @@ because I like Cappuccino and crave caffeine.
     Then the user receives a cup of Cappuccino
 
   Scenario Outline: buy Cappuccino with sugar with coins
-    
     Given the machine has enough sugar for a cup
     When the user presses the "Cappuccino" button
     And the user presses the "Sugar" button
